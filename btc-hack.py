@@ -1,3 +1,4 @@
+
 # Purpyl Media Bitcoin Brute Forcer
 # Made by David Gilbert
 # https://github.com/purpyl-media/btc-hack
@@ -119,3 +120,4 @@ if __name__ == '__main__':
     except:
         pool.close()
         exit()
+        
